@@ -1,3 +1,4 @@
+// 3. Check if the input is pangram or not. (A pangram is a sentence that contains all the alphabets from A to Z)
 
 class HelloWorld {
      public static boolean findPangram(String input) {
