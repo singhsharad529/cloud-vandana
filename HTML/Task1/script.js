@@ -28,7 +28,7 @@ function solveEqation() { //function to solve equation
 
         return eval(equation);
     } catch (error) {
-        return "Error";
+        return "Wrong Input";
     }
 }
 

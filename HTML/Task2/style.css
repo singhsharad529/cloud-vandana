@@ -1,0 +1,52 @@
+body{
+    background: rgb(48, 184, 247);
+}
+
+.container{
+    margin: auto;
+    width: 50%;
+   
+}
+
+.container h2{
+    text-align: center;
+    color: white;
+}
+
+.customer-form .line1{
+    display: flex;
+}
+
+.form-container{
+    box-shadow: 2px 2px 2px grey;
+    background: white;
+}
+
+.customer-form .line1 .params{
+    /* padding: 10px; */
+}
+
+.customer-form div{
+    padding: 5px;
+}
+
+.line5 textarea{
+    width: 98%;
+}
+
+.btn-group button{
+    width: 80px;
+    height: 25px;
+}
+
+.btn-group .submit-btn{
+    background: rgb(48, 184, 247);
+    color: white;
+    border: none;
+}
+
+.btn-group .reset-btn{
+    background: red;
+    color: white;
+    border: none;
+}
