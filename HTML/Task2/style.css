@@ -37,6 +37,7 @@ body{
 .btn-group button{
     width: 80px;
     height: 25px;
+    cursor: pointer;
 }
 
 .btn-group .submit-btn{
